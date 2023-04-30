@@ -71,7 +71,7 @@ Handle COOKIE_Grenades;
 public void OnPluginStart()
 {
     RegConsoleCmd("sm_granaty", CMD_Granaty);
-    RegConsoleCmd("sm_grenades", CMD_Grenades);
+    RegConsoleCmd("sm_grenades", CMD_Granaty);
     HookEvent("player_spawn", OnPlayerSpawn);
     LoadTranslations("lGrenadesMenu.phrases");
     LoadConfig();
