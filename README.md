@@ -1,6 +1,4 @@
 # lGrenadesMenu
-Nie potrzeba podłączać bazy, wszystko jest zapisywane w COOKIES
- 
-komenda !granaty
- 
-.smx do addons/sourcemod/plugins
+
+Config automatically generates in /addons/sourcemod/configs/lPlugins/lGrenadesMenu.cfg
+Command: sm_grenades
