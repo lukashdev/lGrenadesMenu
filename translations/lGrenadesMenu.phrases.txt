@@ -1,0 +1,49 @@
+"Phrases"
+{
+    "set grenade set"
+    {
+        "#format" "{1:i},{2:i}"
+        "en" "Grenades: [{1}/{2}]"
+        "pl" "Granaty: [{1}/{2}]"
+    }
+    "add grenades"
+    {
+        "en" "Add grenades"
+        "pl" "Dodaj granaty"
+    }
+    "remove grenades"
+    {
+        "en" "Remove grenades"
+        "pl" "Usuń granaty"
+    }
+    "decoy"
+    {
+        "#format" "{1:i},{2:i}"
+        "en" "Decoy [{1}/{2}]"
+        "pl" "Decoy [{1}/{2}]"
+    }
+    "flesh"
+    {
+        "#format" "{1:i},{2:i}"
+        "en" "Flesh [{1}/{2}]"
+        "pl" "Flesh [{1}/{2}]"
+    }
+    "smoke"
+    {
+        "#format" "{1:i},{2:i}"
+        "en" "Smoke [{1}/{2}]"
+        "pl" "Smoke [{1}/{2}]"
+    }
+    "he"
+    {
+        "#format" "{1:i},{2:i}"
+        "en" "HE [{1}/{2}]"
+        "pl" "HE [{1}/{2}]"
+    }
+    "molotov"
+    {
+        "#format" "{1:i},{2:i}"
+        "en" "Molotov/INC [{1}/{2}]"
+        "pl" "Molotov/INC [{1}/{2}]"
+    }
+}
